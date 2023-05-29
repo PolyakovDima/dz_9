@@ -4,8 +4,8 @@ class Program
 {
     static void Main()
     {
-        int M = 1; // Начальное значение промежутка
-        int N = 10; // Конечное значение промежутка
+        int M = 1;
+        int N = 10;
 
         Console.WriteLine($"Натуральные числа от {M} до {N}:");
         PrintNaturalNumbers(M, N);
